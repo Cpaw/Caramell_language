@@ -100,7 +100,7 @@ int main(int argc, char** argv){
 }
 
 int usage() {
-  fprintf(stderr, "Usage: cpaw <source file>\n");
+  fprintf(stderr, "Usage: ./execute <source file>\n");
   return -1;
 }
 
